@@ -3,7 +3,7 @@ package tiktokengo_test
 import (
 	"testing"
 
-	tiktokengo "github.com/thewalterjr/golang"
+	tiktokengo "github.com/thewalterjr/tokenizer"
 )
 
 func TestCountTokens(t *testing.T) {
